@@ -1,0 +1,5 @@
+Anglisztika - jó:
+[{"nev":"magyar nyelv és irodalom","tipus":"közép","eredmeny":"70%"},{"nev":"történelem","tipus":"közép","eredmeny":"80%"},{"nev":"matematika","tipus":"emelt","eredmeny":"90%"},{"nev":"angol","tipus":"emelt","eredmeny":"94%"},{"nev":"informatika","tipus":"közép","eredmeny":"95%"},{"nev":"fizika","tipus":"közép","eredmeny":"98%"}, {"nev":"orosz","tipus":"közép","eredmeny":"98%"}]
+
+Infó - jó
+[{"nev":"magyar nyelv és irodalom","tipus":"közép","eredmeny":"70%"},{"nev":"történelem","tipus":"közép","eredmeny":"80%"},{"nev":"matematika","tipus":"emelt","eredmeny":"90%"},{"nev":"angol","tipus":"közép","eredmeny":"94%"},{"nev":"informatika","tipus":"közép","eredmeny":"95%"},{"nev":"fizika","tipus":"közép","eredmeny":"98%"}]
